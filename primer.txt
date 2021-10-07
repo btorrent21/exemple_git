@@ -1,2 +1,3 @@
 primer fitxer
 Git és magnífic!!
+Ara puc editar des del remot_repo
